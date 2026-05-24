@@ -1,3 +1,23 @@
-private-image-prompt-archive/
-├── photo_metadata.json
-└── photos/
+[
+  {
+    "photo_id": 1,
+    "file_name": "photo1.jpg",
+    "storage_path": "photos/photo1.jpg",
+    "prompt": "A futuristic cityscape at sunset",
+    "created_at": "2026-05-24T12:00:00Z"
+  },
+  {
+    "photo_id": 2,
+    "file_name": "photo2.jpg",
+    "storage_path": "photos/photo2.jpg",
+    "prompt": "An abstract painting of a bird in motion",
+    "created_at": "2026-05-24T12:30:00Z"
+  },
+  {
+    "photo_id": 3,
+    "file_name": "photo3.jpg",
+    "storage_path": "photos/photo3.jpg",
+    "prompt": "A serene forest in the morning light",
+    "created_at": "2026-05-24T13:00:00Z"
+  }
+]
